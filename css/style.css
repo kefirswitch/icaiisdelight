@@ -51,6 +51,11 @@ h1 {
   #title {
     text-align: center;
   }
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 3.5rem;
+    font-weight: bold;
+  }
   .title-image {
     position: static;
     transform: rotate(0);
