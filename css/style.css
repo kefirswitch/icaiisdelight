@@ -60,6 +60,10 @@ h1 {
     font-size: 4Srem;
     font-weight: bold;
   }
+  .nav-link {
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+  }
 
   h1 {
     font-family: 'Montserrat', sans-serif;
