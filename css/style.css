@@ -68,9 +68,14 @@ h1 {
     padding-left: 0;
   }
   .gon {
-    width: 50%;
+    width: 100%;
     margin-left: 0;
-    
+    padding-top: 40%;
+  }
+  .milk {
+    width: 100%;
+    margin-left: 0;
+    padding-top: 20%;
   }
   .nav-item {
     margin-right: 0;
