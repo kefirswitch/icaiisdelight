@@ -51,19 +51,19 @@ h1 {
   #title {
     text-align: center;
   }
-  .navbar-brand {
-    font-family: "Ubuntu";
-    font-size: 3.5rem;
-    font-weight: bold;
-  }
   .title-image {
     position: static;
     transform: rotate(0);
   }
+  .navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 4Srem;
+    font-weight: bold;
+  }
 
   h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 2rem;
+    font-size: 3.5rem;
     font-weight: bold;
     color: #fff;
     line-height: 1.5;
@@ -80,7 +80,7 @@ h1 {
   .milk {
     width: 100%;
     margin-left: 0;
-    padding-top: 30%;
+    padding-top: 10%;
   }
   .nav-item {
     margin-right: 0;
