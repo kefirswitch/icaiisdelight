@@ -1,4 +1,4 @@
-/* Nav bar */
+/* Navbar */
 .container-fluid {
   padding: 3% 11% 3%;
 }
@@ -109,17 +109,16 @@ padding-right: 7%;
   .benefits-text {
     position: absolute;
     padding-top: 17%;
-    font-size: 3rem;
+
 
   }
   h2 {
     font-family: "Montserrat";
-    font-size: 1rem;
     line-height: 1.5;
     padding-left: 10%;
     padding-right: 10%;
-
   }
+
 
 }
 /* Pricing */
@@ -129,6 +128,10 @@ padding-right: 7%;
 }
 .pricing-column {
   padding: 3% 2%;
+}
+.pricing-title {
+  font-family: "Montserrat";
+  color: #000;
 }
 /* Shop */
 #shop {
