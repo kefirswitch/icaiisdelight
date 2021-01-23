@@ -18,6 +18,9 @@
   margin-right: 20%;
 }
 /* Title Section */
+.milk {
+  width: 100%;
+}
 .gon {
   width: 100%;
   margin-left: 10%;
@@ -39,11 +42,24 @@ h1 {
 .shopee-button {
   margin-right: 2%;
 }
-/* Products Section */
-#products {
+/* Beneftis Section */
+#benefits {
   background-color: #fff;
   text-align: center;
   color: #000;
+  text-align: center;
+}
+.benefits-text {
+  position: absolute;
+  padding-top: 18%;
+
+}
+h2 {
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  line-height: 1.5;
+padding-left: 7%;
+padding-right: 7%;
 }
 
 /* Media */
@@ -88,6 +104,21 @@ h1 {
   }
   .nav-item {
     margin-right: 0;
+  }
+
+  .benefits-text {
+    position: absolute;
+    padding-top: 17%;
+
+
+  }
+  h2 {
+    font-family: "Montserrat";
+    font-size: 1rem;
+    line-height: 1.5;
+    padding-left: 10%;
+    padding-right: 10%;
+
   }
 
 }
