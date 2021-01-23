@@ -53,6 +53,7 @@ h1 {
   position: absolute;
   padding-top: 18%;
   color: #ffe227;
+  text-shadow: 1px 1px #000;
 }
 h2 {
   font-family: "Montserrat";
