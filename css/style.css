@@ -112,6 +112,7 @@ padding-right: 7%;
     padding-bottom: 8%;
     color: #ffe227;
     font-size: 3rem;
+    text-shadow: 1px 1px #000;
   }
   h2 {
     font-family: "Montserrat";
